@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="cilent detalis ">96ae92ba0ff133401885d5bce1050ea9</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>cilent hotel reuest s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_333926_cilent_ho_cilent_hotel_reuest</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_333926_cilent_ho.cilent_hotel_reuest_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>sekhar</sys_created_by>
+        <sys_created_on>2019-06-06 15:13:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>deae92ba0ff133401885d5bce1050eab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Client Hotel Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
+        <sys_update_name>sys_app_module_deae92ba0ff133401885d5bce1050eab</sys_update_name>
+        <sys_updated_by>sekhar</sys_updated_by>
+        <sys_updated_on>2019-06-06 17:01:18</sys_updated_on>
+        <timeline_page/>
+        <title>Client Hotel Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

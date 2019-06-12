@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>cilent detalis </name>
+        <order>100</order>
+        <roles>x_333926_cilent_ho.cilent_hotel_reuest_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>sekhar</sys_created_by>
+        <sys_created_on>2019-06-06 15:13:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96ae92ba0ff133401885d5bce1050ea9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cilent detalis </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
+        <sys_update_name>sys_app_application_96ae92ba0ff133401885d5bce1050ea9</sys_update_name>
+        <sys_updated_by>sekhar</sys_updated_by>
+        <sys_updated_on>2019-06-06 15:13:40</sys_updated_on>
+        <title>cilent detalis </title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

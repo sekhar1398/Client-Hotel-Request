@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="Client Hotel Request" max_length="40" name="x_333926_cilent_ho_cilent_hotel_reuest" type="collection">
+        <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="255" name="description" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="caller"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

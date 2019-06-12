@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_333926_cilent_ho.IT manager" name="x_333926_cilent_ho.IT manager">2c340ad40f8af3401885d5bce1050eeb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 05:09:49</sys_created_on>
+        <sys_id>a1644ad40f8af3401885d5bce1050e0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2c340ad40f8af3401885d5bce1050eeb</sys_name>
+        <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a1644ad40f8af3401885d5bce1050e0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 05:09:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sekhar</sys_created_by>
+        <sys_created_on>2019-06-06 15:13:41</sys_created_on>
+        <sys_id>5eae92ba0ff133401885d5bce1050edb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_333926_cilent_ho_cilent_hotel_reuest.x_333926_cilent_ho.cilent_hotel_reuest_user</sys_name>
+        <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
+        <sys_security_acl display_value="x_333926_cilent_ho_cilent_hotel_reuest">9eae92ba0ff133401885d5bce1050ed8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5eae92ba0ff133401885d5bce1050edb</sys_update_name>
+        <sys_updated_by>sekhar</sys_updated_by>
+        <sys_updated_on>2019-06-06 15:13:41</sys_updated_on>
+        <sys_user_role display_value="x_333926_cilent_ho.cilent_hotel_reuest_user" name="x_333926_cilent_ho.cilent_hotel_reuest_user">c2ae1e7a0ff133401885d5bce1050e5d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

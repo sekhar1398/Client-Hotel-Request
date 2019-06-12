@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="cilent detalis ">1aae92ba0ff133401885d5bce1050ec7</application>
+        <filter/>
+        <name>Client Hotel Request</name>
+        <order>100</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_333926_cilent_ho.cilent_hotel_reuest_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>sekhar</sys_created_by>
+        <sys_created_on>2019-06-06 15:13:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>12ae92ba0ff133401885d5bce1050eca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Client Hotel Request</sys_name>
+        <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
+        <sys_update_name>sys_ui_module_12ae92ba0ff133401885d5bce1050eca</sys_update_name>
+        <sys_updated_by>sekhar</sys_updated_by>
+        <sys_updated_on>2019-06-06 17:03:52</sys_updated_on>
+        <table>x_333926_cilent_ho_cilent_hotel_reuest</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
