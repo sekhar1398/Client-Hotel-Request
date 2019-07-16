@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="caller" table="x_333926_cilent_ho_cilent_hotel_reuest">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_icon_2" table="x_333926_cilent_ho_cilent_hotel_reuest">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -9,7 +9,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Caller</column_label>
+        <column_label>New Icon</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,20 +22,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>caller</element>
+        <element>u_icon_2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="Icon">icon</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
+        <max_length>100</max_length>
         <name>x_333926_cilent_ho_cilent_hotel_reuest</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -47,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>sekhar</sys_created_by>
-        <sys_created_on>2019-06-12 04:49:10</sys_created_on>
-        <sys_id>a21a9e27db2233001e1bcc303996198c</sys_id>
+        <sys_created_on>2019-07-16 05:46:20</sys_created_on>
+        <sys_id>e56cdae7db2233001e1bcc3039961951</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Caller</sys_name>
+        <sys_name>New Icon</sys_name>
         <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
         <sys_policy/>
         <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
-        <sys_update_name>sys_dictionary_x_333926_cilent_ho_cilent_hotel_reuest_caller</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-07-16 05:36:19</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_333926_cilent_ho_cilent_hotel_reuest_u_icon_2</sys_update_name>
+        <sys_updated_by>sekhar</sys_updated_by>
+        <sys_updated_on>2019-07-16 05:46:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

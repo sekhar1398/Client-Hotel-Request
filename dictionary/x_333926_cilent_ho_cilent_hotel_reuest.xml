@@ -5,6 +5,8 @@
         <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="255" name="description" type="string_full_utf8"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="New Icon" max_length="100" name="u_icon_2" type="icon"/>
+        <element attributes="edge_encryption_enabled=true" dependent="sys_id" dependent_on_field="sys_id" label="Short Description" mandatory="true" max_length="40" name="u_string_1" type="string" use_dependent_field="true"/>
         <index name="index">
             <element name="caller"/>
         </index>

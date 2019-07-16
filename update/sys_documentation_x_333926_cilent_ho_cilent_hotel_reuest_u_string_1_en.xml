@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Client Hotel Request" language="en" table="x_333926_cilent_ho_cilent_hotel_reuest">
+    <sys_documentation element="u_string_1" label="Short Description" language="en" table="x_333926_cilent_ho_cilent_hotel_reuest">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>u_string_1</element>
             <help/>
             <hint/>
-            <label>Client Hotel Request</label>
+            <label>Short Description</label>
             <language>en</language>
             <name>x_333926_cilent_ho_cilent_hotel_reuest</name>
-            <plural>Client Hotel Requests</plural>
+            <plural>Short Descriptions</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>sekhar</sys_created_by>
-            <sys_created_on>2019-06-06 15:13:41</sys_created_on>
-            <sys_id>261a9e27db2233001e1bcc3039961989</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>Client Hotel Request</sys_name>
+            <sys_created_on>2019-07-16 05:42:32</sys_created_on>
+            <sys_id>798b52e7db2233001e1bcc30399619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short Description</sys_name>
             <sys_package display_value="cilent hotel request" source="x_333926_cilent_ho">c02ed27a0ff133401885d5bce1050e2b</sys_package>
             <sys_policy/>
             <sys_scope display_value="cilent hotel request">c02ed27a0ff133401885d5bce1050e2b</sys_scope>
-            <sys_update_name>sys_documentation_x_333926_cilent_ho_cilent_hotel_reuest__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_333926_cilent_ho_cilent_hotel_reuest_u_string_1_en</sys_update_name>
             <sys_updated_by>sekhar</sys_updated_by>
-            <sys_updated_on>2019-06-06 17:01:18</sys_updated_on>
+            <sys_updated_on>2019-07-16 05:42:32</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
